@@ -1,0 +1,2 @@
+Fotos que faltan (poné cada una con este nombre exacto en esta carpeta):
+Works: work1..work8 (.jpg = portada, .mp4 = video si el trabajo es un video).
